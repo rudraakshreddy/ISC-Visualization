@@ -1,6 +1,6 @@
 # ISC-Visualization
 
-**Dynamic In-Situ Combustion Front Simulation**
+**Dynamic In-Situ Combustion Front Simulation**<br>
 This Python code simulates the temperature, viscosity, and zone profiles of a combustion front propagating through a core sample during an in-situ combustion (ISC) process, commonly studied in thermal Enhanced Oil Recovery (EOR).
 
 **Features**<br>
@@ -11,15 +11,15 @@ This Python code simulates the temperature, viscosity, and zone profiles of a co
 
 **Zone Classification**: Classifies the reservoir into zones (Initial Reservoir, Oil Bank, Condensation Zone, Steam Zone, Combustion Zone, Burned Zone) based on temperature and position relative to the front.
 
-**Interactive Visualization**: Includes an interactive slider to view how profiles change with time.
+**Interactive Visualization**: Includes an interactive slider to view how profiles change with time.<br>
 
 **Plots Generated**:
 
 Temperature vs. Distance
 Viscosity vs. Distance (log scale)
-Zone heatmap along the core
+Zone heatmap along the core<br>
 
-**Technologies Used**
+**Technologies Used**<br>
 
 numpy for numerical operations
 matplotlib for plotting and visualization
