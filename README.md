@@ -3,7 +3,7 @@
 **Dynamic In-Situ Combustion Front Simulation**
 This Python code simulates the temperature, viscosity, and zone profiles of a combustion front propagating through a core sample during an in-situ combustion (ISC) process, commonly studied in thermal Enhanced Oil Recovery (EOR).
 
-**Features**
+**Features**<br>
 
 **Dynamic Temperature Profile**: Models how temperature evolves along the core as the combustion front advances over time.
 
